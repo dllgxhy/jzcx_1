@@ -1,0 +1,106 @@
+C51 COMPILER V7.20   MAIN                                                                  12/15/2005 16:36:52 PAGE 1   
+
+
+C51 COMPILER V7.20, COMPILATION OF MODULE MAIN
+OBJECT MODULE PLACED IN MAIN.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE MAIN.C BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          #include "lpcreg.h"
+   2          #include "main.h"
+   3          #include "mfrc522.h"
+   4          
+   5          unsigned char code data1[16] = {0x12,0x34,0x56,0x78,0xED,0xCB,0xA9,0x87,0x12,0x34,0x56,0x78,0x01,0xFE,0x01
+             -,0xFE};
+   6          //M1¿¨µÄÄ³Ò»¿éÐ´ÎªÈçÏÂ¸ñÊ½£¬Ôò¸Ã¿éÎªÇ®°ü£¬¿É½ÓÊÕ¿Û¿îºÍ³äÖµÃüÁî
+   7          //4×Ö½Ú½ð¶î£¨µÍ×Ö½ÚÔÚÇ°£©£«4×Ö½Ú½ð¶îÈ¡·´£«4×Ö½Ú½ð¶î£«1×Ö½Ú¿éµØÖ·£«1×Ö½Ú¿éµØÖ·È¡·´£«1×Ö½Ú¿éµØÖ·£«1×Ö½Ú¿éµØÖ
+             -·È¡·´ 
+   8          unsigned char code data2[4]  = {0x12,0,0,0};
+   9          unsigned char code DefaultKey[6] = {0xFF, 0xFF, 0xFF, 0xFF, 0xFF, 0xFF}; 
+  10          
+  11          
+  12          unsigned char g_ucTempbuf[20];                        
+  13          
+  14          void main( )
+  15          {    
+  16   1           unsigned char status;
+  17   1           InitializeSystem( );
+  18   1           PcdReset();
+  19   1           PcdAntennaOff(); 
+  20   1           PcdAntennaOn();  
+  21   1           while ( 1 )
+  22   1           {   
+  23   2               status = PcdRequest(PICC_REQALL, g_ucTempbuf);
+  24   2               if (status != MI_OK)
+  25   2               {    
+  26   3                            LED_GREEN = 1;
+  27   3                                continue;
+  28   3               }
+  29   2               LED_GREEN = 0;
+  30   2               
+  31   2               status = PcdAnticoll(g_ucTempbuf);
+  32   2               if (status != MI_OK)
+  33   2               {    continue;    }
+  34   2               
+  35   2               status = PcdSelect(g_ucTempbuf);
+  36   2               if (status != MI_OK)
+  37   2               {    continue;    }
+  38   2               
+  39   2               status = PcdAuthState(PICC_AUTHENT1A, 1, DefaultKey, g_ucTempbuf);
+  40   2               if (status != MI_OK)
+  41   2               {    continue;    }
+  42   2               
+  43   2               status = PcdWrite(1, data1);
+  44   2               if (status != MI_OK)
+  45   2               {    continue;    }
+  46   2               
+  47   2               status = PcdValue(PICC_DECREMENT,1,data2);
+  48   2               if (status != MI_OK)
+  49   2               {    continue;    }
+  50   2               
+  51   2               status = PcdBakValue(1, 2);
+  52   2               if (status != MI_OK)
+  53   2               {    continue;    }
+C51 COMPILER V7.20   MAIN                                                                  12/15/2005 16:36:52 PAGE 2   
+
+  54   2               
+  55   2               status = PcdRead(2, g_ucTempbuf);
+  56   2               if (status != MI_OK)
+  57   2               {    continue;    }
+  58   2               
+  59   2                       PcdHalt();
+  60   2          }
+  61   1      }
+  62          
+  63          
+  64          /////////////////////////////////////////////////////////////////////
+  65          //ÏµÍ³³õÊ¼»¯
+  66          /////////////////////////////////////////////////////////////////////
+  67          void InitializeSystem()
+  68          {
+  69   1          P0M1 = 0x0; P0M2 = 0x0;
+  70   1          P1M1 = 0x0; P1M2 = 0x0;                      
+  71   1          P3M1 = 0x0; P3M2 = 0xFF; 
+  72   1          P0 = 0xFF; P1 = 0xFF; P3 = 0xFF;
+  73   1      }
+  74          
+  75          
+  76          
+  77             
+  78            
+  79          
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    164    ----
+   CONSTANT SIZE    =     26    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =     20    ----
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)

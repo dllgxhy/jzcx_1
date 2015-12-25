@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>RC522/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>234</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Profiling/>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26721-19633</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>RC522</ExpandedNode><ExpandedNode>RC522/Output</ExpandedNode><ExpandedNode>RC522/Output/RC522.d43</ExpandedNode><ExpandedNode>RC522/Output/RC522.txt</ExpandedNode><ExpandedNode>RC522/main.c</ExpandedNode><ExpandedNode>RC522/main.c/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28122-20221</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>13</YPos><SelStart>2601</SelStart><SelEnd>2601</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\RC522.H</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\UART0_Func.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2267</SelStart><SelEnd>2267</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\PIN_DEF.H</Filename><XPos>0</XPos><YPos>4</YPos><SelStart>535</SelStart><SelEnd>540</SelEnd></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\Development Soft\IAR 5.2\430\inc\msp430.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Debug\Exe\RC522.txt</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00440c18><key>iaridepm.enu1</key></Toolbar-00440c18></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>470</Bottom><Right>325</Right><x>-2</x><y>-2</y><xscreen>137</xscreen><yscreen>163</yscreen><sizeHorzCX>140657</sizeHorzCX><sizeHorzCY>241124</sizeHorzCY><sizeVertCX>335729</sizeVertCX><sizeVertCY>698225</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>161</Bottom><Right>976</Right><x>-2</x><y>-2</y><xscreen>978</xscreen><yscreen>163</yscreen><sizeHorzCX>1004107</sizeHorzCX><sizeHorzCY>241124</sizeHorzCY><sizeVertCX>140657</sizeVertCX><sizeVertCY>241124</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

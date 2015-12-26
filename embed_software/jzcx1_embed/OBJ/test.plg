@@ -1,0 +1,1640 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\project\jzcx_1\embed_software\jzcx1_embed\test.uvproj
+Project File Date:  12/26/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+compiling RC522.C...
+Source\User\Main\Rc522_Gpio.h(1): error:  #5: cannot open source input file "msp430x41x.h": No such file or directory
+compiling misc.c...
+Target not created
+Build target 'Target 1'
+compiling RC522.C...
+Source\User\Main\RC522.C(38): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(73): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(109): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(139): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(167): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(191): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(229): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(238): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(251): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(275): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(286): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(291): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(313): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(355): error:  #20: identifier "P1OUT" is undefined
+Source\User\Main\RC522.C(355): error:  #20: identifier "BIT3" is undefined
+Source\User\Main\RC522.C(356): warning:  #223-D: function "_NOP" declared implicitly
+Source\User\Main\RC522.C(383): error:  #20: identifier "P1OUT" is undefined
+Source\User\Main\RC522.C(383): error:  #20: identifier "BIT6" is undefined
+Source\User\Main\RC522.C(384): error:  #20: identifier "BIT7" is undefined
+Source\User\Main\RC522.C(390): error:  #20: identifier "BIT5" is undefined
+Source\User\Main\RC522.C(392): error:  #20: identifier "BIT5" is undefined
+Source\User\Main\RC522.C(402): error:  #20: identifier "P1IN" is undefined
+Source\User\Main\RC522.C(420): error:  #20: identifier "P1OUT" is undefined
+Source\User\Main\RC522.C(420): error:  #20: identifier "BIT6" is undefined
+Source\User\Main\RC522.C(421): error:  #20: identifier "BIT7" is undefined
+Source\User\Main\RC522.C(427): error:  #20: identifier "BIT5" is undefined
+Source\User\Main\RC522.C(429): error:  #20: identifier "BIT5" is undefined
+Source\User\Main\RC522.C(438): error:  #20: identifier "BIT5" is undefined
+Source\User\Main\RC522.C(440): error:  #20: identifier "BIT5" is undefined
+Source\User\Main\RC522.C(487): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(535): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(553): warning:  #68-D: integer conversion resulted in a change of sign
+Target not created
+Build target 'Target 1'
+compiling RC522.C...
+Source\User\Main\RC522.C(38): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(73): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(109): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(139): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(167): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(191): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(229): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(238): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(251): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(275): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(286): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(291): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(313): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(355): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(356): warning:  #223-D: function "_NOP" declared implicitly
+Source\User\Main\RC522.C(357): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(359): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(383): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(384): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(392): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(395): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(406): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(407): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(420): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(421): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(429): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(432): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(438): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(441): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(443): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(445): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(446): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(487): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(535): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(553): warning:  #68-D: integer conversion resulted in a change of sign
+linking...
+.\OBJ\test.axf: Error: L6218E: Undefined symbol _NOP (referred from rc522.o).
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\main.c(17): warning:  #161-D: unrecognized #pragma
+Source\User\Main\main.c(21): warning:  #161-D: unrecognized #pragma
+compiling RC522.C...
+Source\User\Main\mfrc522.h(144): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\RC522.C(40): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(75): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(111): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(141): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(169): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(193): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(203): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(231): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(240): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(253): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(277): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(288): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(293): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(303): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(315): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(357): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(359): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(361): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(385): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(386): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(392): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(395): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(397): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(408): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(409): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(422): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(423): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(429): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(432): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(434): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(443): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(445): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(489): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(537): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(555): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(603): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(606): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(616): error:  #20: identifier "DefaultKey" is undefined
+Source\User\Main\RC522.C(620): error:  #20: identifier "data1" is undefined
+Source\User\Main\RC522.C(624): error:  #20: identifier "data2" is undefined
+Source\User\Main\RC522.C(637): error: At end of source:  #67: expected a "}"
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\main.c(17): warning:  #161-D: unrecognized #pragma
+Source\User\Main\main.c(21): warning:  #161-D: unrecognized #pragma
+Source\User\Main\main.c(47): warning:  #223-D: function "Init_Pcd" declared implicitly
+compiling RC522.C...
+Source\User\Main\RC522.C(2): error:  #5: cannot open source input file "mfrc522.h": No such file or directory
+Target not created
+Build target 'Target 1'
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\mfrc522_reg.h(111): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\RC522.C(41): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(76): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(112): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(142): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(170): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(194): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(204): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(232): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(241): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(254): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(278): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(289): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(294): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(304): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(316): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(358): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(360): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(362): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(386): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(387): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(395): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(396): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(398): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(406): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(409): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(423): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(424): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(432): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(433): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(435): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(441): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(443): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(444): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(446): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(449): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(490): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(538): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(556): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(604): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(607): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(617): error:  #20: identifier "DefaultKey" is undefined
+Source\User\Main\RC522.C(621): error:  #20: identifier "data1" is undefined
+Source\User\Main\RC522.C(625): error:  #20: identifier "data2" is undefined
+Source\User\Main\RC522.C(638): error: At end of source:  #67: expected a "}"
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\main.c(40): warning:  #223-D: function "Init_Pcd" declared implicitly
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\mfrc522_reg.h(111): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\RC522.C(10): error:  #148: variable "data2" has already been initialized
+Source\User\Main\RC522.C(45): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(80): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(116): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(146): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(174): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(198): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(208): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(236): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(245): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(258): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(282): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(293): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(298): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(308): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(320): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(362): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(364): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(366): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(391): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(397): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(399): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(407): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(414): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(428): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(434): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(436): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(445): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(452): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(494): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(542): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(560): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(608): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(611): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(642): error: At end of source:  #67: expected a "}"
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\main.c(40): warning:  #223-D: function "Init_Pcd" declared implicitly
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\mfrc522_reg.h(111): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\RC522.C(10): error:  #148: variable "data2" has already been initialized
+Source\User\Main\RC522.C(45): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(80): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(116): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(146): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(174): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(198): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(208): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(236): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(245): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(258): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(282): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(293): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(298): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(308): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(320): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(362): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(364): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(366): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(391): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(397): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(399): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(407): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(414): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(428): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(434): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(436): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(445): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(452): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(494): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(542): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(560): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(608): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(611): warning:  #174-D: expression has no effect
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling Readme.c...
+Target not created
+Build target 'Target 1'
+compiling RC522.C...
+Source\User\Main\RC522.C(10): error:  #148: variable "data2" has already been initialized
+Source\User\Main\RC522.C(45): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(80): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(116): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(146): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(174): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(198): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(208): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(236): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(245): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(258): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(282): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(293): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(298): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(308): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(320): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(362): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(364): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(366): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(391): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(397): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(399): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(407): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(414): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(428): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(434): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(436): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(445): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(452): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(494): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(542): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(560): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(608): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(611): warning:  #174-D: expression has no effect
+Target not created
+Build target 'Target 1'
+compiling RC522.C...
+Source\User\Main\RC522.C(10): error:  #148: variable "data2" has already been initialized
+Source\User\Main\RC522.C(45): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(80): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(116): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(146): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(174): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(198): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(208): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(236): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(245): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(258): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(282): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(293): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(298): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(308): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(320): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(362): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(364): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(366): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(391): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(397): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(399): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(407): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(414): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(428): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(434): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(436): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(445): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(452): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(494): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(542): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(560): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(608): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(611): warning:  #174-D: expression has no effect
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(30): warning:  #1295-D: Deprecated declaration Init_Pcd - give arg types
+Source\User\Main\main.c(16): error:  #13: expected a file name
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(30): warning:  #1295-D: Deprecated declaration Init_Pcd - give arg types
+Source\User\Main\RC522.C(10): error:  #148: variable "data2" has already been initialized
+Source\User\Main\RC522.C(45): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(80): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(116): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(146): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(174): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(198): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(208): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(236): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(245): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(258): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(282): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(293): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(298): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(308): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(320): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(362): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(364): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(366): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(391): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(397): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(399): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(407): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(414): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(428): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(434): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(436): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(445): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(452): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(494): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(542): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(560): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(609): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling Readme.c...
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(30): warning:  #1295-D: Deprecated declaration Init_Pcd - give arg types
+Source\User\Main\main.c(16): error:  #13: expected a file name
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(30): warning:  #1295-D: Deprecated declaration Init_Pcd - give arg types
+Source\User\Main\RC522.C(44): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(79): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(115): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(145): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(173): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(197): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(207): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(235): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(244): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(257): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(281): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(292): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(297): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(307): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(319): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(361): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(363): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(389): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(396): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(398): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(399): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(401): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(406): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(409): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(412): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(426): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(433): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(435): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(436): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(438): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(444): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(446): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(449): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(452): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(493): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(541): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(559): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(608): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(611): warning:  #174-D: expression has no effect
+compiling timer.c...
+Source\User\Main\timer.c(2): error:  #5: cannot open source input file "timer.h": No such file or directory
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling Readme.c...
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(30): warning:  #1295-D: Deprecated declaration Init_Pcd - give arg types
+Source\User\Main\main.c(16): error:  #13: expected a file name
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(30): warning:  #1295-D: Deprecated declaration Init_Pcd - give arg types
+Source\User\Main\RC522.C(44): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(79): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(115): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(145): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(173): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(197): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(207): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(235): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(244): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(257): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(281): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(292): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(297): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(307): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(319): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(361): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(363): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(389): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(396): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(398): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(399): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(401): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(406): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(409): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(412): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(426): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(433): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(435): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(436): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(438): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(444): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(446): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(449): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(452): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(493): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(541): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(559): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(608): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(611): warning:  #174-D: expression has no effect
+compiling timer.c...
+Source\User\Main\timer.c(17): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+Source\User\Main\timer.c(21): warning:  #223-D: function "TIM_DeInit" declared implicitly
+Source\User\Main\timer.c(23): warning:  #223-D: function "TIM_InternalClockConfig" declared implicitly
+Source\User\Main\timer.c(30): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+Source\User\Main\timer.c(31): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+Source\User\Main\timer.c(34): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+Source\User\Main\timer.c(36): warning:  #223-D: function "TIM_ClearFlag" declared implicitly
+Source\User\Main\timer.c(36): error:  #20: identifier "TIM_FLAG_Update" is undefined
+Source\User\Main\timer.c(38): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+Source\User\Main\timer.c(40): warning:  #223-D: function "TIM_ITConfig" declared implicitly
+Source\User\Main\timer.c(40): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(41): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Source\User\Main\timer.c(54): warning:  #223-D: function "TIM_GetITStatus" declared implicitly
+Source\User\Main\timer.c(54): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(56): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+Source\User\Main\timer.c(65): warning:  #1-D: last line of file ends without a newline
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling Readme.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\rc522.h(30): warning:  #1295-D: Deprecated declaration Init_Pcd - give arg types
+Source\User\Main\main.c(16): error:  #13: expected a file name
+compiling timer.c...
+Source\User\Main\timer.c(17): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+Source\User\Main\timer.c(21): warning:  #223-D: function "TIM_DeInit" declared implicitly
+Source\User\Main\timer.c(23): warning:  #223-D: function "TIM_InternalClockConfig" declared implicitly
+Source\User\Main\timer.c(30): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+Source\User\Main\timer.c(31): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+Source\User\Main\timer.c(34): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+Source\User\Main\timer.c(36): warning:  #223-D: function "TIM_ClearFlag" declared implicitly
+Source\User\Main\timer.c(36): error:  #20: identifier "TIM_FLAG_Update" is undefined
+Source\User\Main\timer.c(38): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+Source\User\Main\timer.c(40): warning:  #223-D: function "TIM_ITConfig" declared implicitly
+Source\User\Main\timer.c(40): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(41): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Source\User\Main\timer.c(54): warning:  #223-D: function "TIM_GetITStatus" declared implicitly
+Source\User\Main\timer.c(54): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(56): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+Source\User\Main\timer.c(65): warning:  #1-D: last line of file ends without a newline
+compiling ble.c...
+Source\User\Main\ble.c(5): warning:  #1-D: last line of file ends without a newline
+compiling fans.c...
+Source\User\Main\fans.h(5): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\fans.h(9): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\fans.c(6): warning:  #1-D: last line of file ends without a newline
+compiling led.c...
+Source\User\Main\led.h(8): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\led.c(22): warning:  #1-D: last line of file ends without a newline
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.c(8): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\led.h(8): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\fans.h(5): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\fans.h(9): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\main.c(46): warning:  #223-D: function "Init_Ble" declared implicitly
+Source\User\Main\main.c(48): warning:  #223-D: function "Init_Ultrasonic" declared implicitly
+compiling usart.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(44): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(79): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(115): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(145): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(173): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(197): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(207): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(235): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(244): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(257): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(281): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(292): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(297): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(307): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(319): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(361): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(363): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(389): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(390): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(396): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(398): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(399): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(401): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(406): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(409): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(412): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(426): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(427): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(433): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(435): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(436): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(438): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(444): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(446): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(447): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(449): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(452): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(493): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(541): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(559): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(608): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(611): warning:  #174-D: expression has no effect
+compiling timer.c...
+Source\User\Main\timer.c(17): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+Source\User\Main\timer.c(21): warning:  #223-D: function "TIM_DeInit" declared implicitly
+Source\User\Main\timer.c(23): warning:  #223-D: function "TIM_InternalClockConfig" declared implicitly
+Source\User\Main\timer.c(30): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+Source\User\Main\timer.c(31): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+Source\User\Main\timer.c(34): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+Source\User\Main\timer.c(36): warning:  #223-D: function "TIM_ClearFlag" declared implicitly
+Source\User\Main\timer.c(36): error:  #20: identifier "TIM_FLAG_Update" is undefined
+Source\User\Main\timer.c(38): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+Source\User\Main\timer.c(40): warning:  #223-D: function "TIM_ITConfig" declared implicitly
+Source\User\Main\timer.c(40): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(41): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Source\User\Main\timer.c(54): warning:  #223-D: function "TIM_GetITStatus" declared implicitly
+Source\User\Main\timer.c(54): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(56): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+Source\User\Main\timer.c(65): warning:  #1-D: last line of file ends without a newline
+compiling ble.c...
+Source\User\Main\ble.c(5): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\led.h(8): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\fans.h(5): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\fans.h(9): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\main.c(45): warning:  #223-D: function "Init_Ble" declared implicitly
+Source\User\Main\main.c(47): warning:  #223-D: function "Init_Ultrasonic" declared implicitly
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+Source\User\Main\timer.c(18): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+Source\User\Main\timer.c(22): warning:  #223-D: function "TIM_DeInit" declared implicitly
+Source\User\Main\timer.c(24): warning:  #223-D: function "TIM_InternalClockConfig" declared implicitly
+Source\User\Main\timer.c(31): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+Source\User\Main\timer.c(32): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+Source\User\Main\timer.c(35): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+Source\User\Main\timer.c(37): warning:  #223-D: function "TIM_ClearFlag" declared implicitly
+Source\User\Main\timer.c(37): error:  #20: identifier "TIM_FLAG_Update" is undefined
+Source\User\Main\timer.c(39): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+Source\User\Main\timer.c(41): warning:  #223-D: function "TIM_ITConfig" declared implicitly
+Source\User\Main\timer.c(41): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(42): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Source\User\Main\timer.c(55): warning:  #223-D: function "TIM_GetITStatus" declared implicitly
+Source\User\Main\timer.c(55): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(57): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+Source\User\Main\timer.c(66): warning:  #1-D: last line of file ends without a newline
+compiling ble.c...
+compiling fans.c...
+Source\User\Main\fans.h(5): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\fans.h(9): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\fans.c(9): warning:  #1-D: last line of file ends without a newline
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.c(9): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\led.h(8): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\main.c(45): warning:  #223-D: function "Init_Ble" declared implicitly
+Source\User\Main\main.c(47): warning:  #223-D: function "Init_Ultrasonic" declared implicitly
+compiling timer.c...
+Source\User\Main\timer.c(18): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+Source\User\Main\timer.c(22): warning:  #223-D: function "TIM_DeInit" declared implicitly
+Source\User\Main\timer.c(24): warning:  #223-D: function "TIM_InternalClockConfig" declared implicitly
+Source\User\Main\timer.c(31): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+Source\User\Main\timer.c(32): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+Source\User\Main\timer.c(35): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+Source\User\Main\timer.c(37): warning:  #223-D: function "TIM_ClearFlag" declared implicitly
+Source\User\Main\timer.c(37): error:  #20: identifier "TIM_FLAG_Update" is undefined
+Source\User\Main\timer.c(39): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+Source\User\Main\timer.c(41): warning:  #223-D: function "TIM_ITConfig" declared implicitly
+Source\User\Main\timer.c(41): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(42): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Source\User\Main\timer.c(55): warning:  #223-D: function "TIM_GetITStatus" declared implicitly
+Source\User\Main\timer.c(55): error:  #20: identifier "TIM_IT_Update" is undefined
+Source\User\Main\timer.c(57): warning:  #223-D: function "TIM_ClearITPendingBit" declared implicitly
+Source\User\Main\timer.c(66): warning:  #1-D: last line of file ends without a newline
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling ultrasonic.c...
+Target not created
+Build target 'Target 1'
+compiling system_stm32f10x.c...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\led.h(8): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\main.c(45): warning:  #223-D: function "Init_Ble" declared implicitly
+Source\User\Main\main.c(47): warning:  #223-D: function "Init_Ultrasonic" declared implicitly
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+Source\User\Main\led.h(8): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\led.c(22): warning:  #1-D: last line of file ends without a newline
+compiling ultrasonic.c...
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+linking...
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ARRPreloadConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ClearFlag (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ClearITPendingBit (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_Cmd (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_DeInit (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_GetITStatus (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ITConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_InternalClockConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_TimeBaseInit (referred from timer.o).
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\led.h(8): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\main.c(43): warning:  #223-D: function "Init_Ble" declared implicitly
+Source\User\Main\main.c(45): warning:  #223-D: function "Init_Ultrasonic" declared implicitly
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+Source\User\Main\led.h(8): warning:  #1-D: last line of file ends without a newline
+Source\User\Main\led.c(22): warning:  #1-D: last line of file ends without a newline
+compiling ultrasonic.c...
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling Readme.c...
+linking...
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ARRPreloadConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ClearFlag (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ClearITPendingBit (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_Cmd (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_DeInit (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_GetITStatus (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ITConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_InternalClockConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_TimeBaseInit (referred from timer.o).
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\main.c(43): warning:  #223-D: function "Init_Ble" declared implicitly
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+Source\User\Main\ble.h(4): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+Source\User\Main\led.c(22): warning:  #1-D: last line of file ends without a newline
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling Readme.c...
+linking...
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ARRPreloadConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ClearFlag (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ClearITPendingBit (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_Cmd (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_DeInit (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_GetITStatus (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ITConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_InternalClockConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_TimeBaseInit (referred from timer.o).
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\main.c(43): warning:  #223-D: function "Init_Ble" declared implicitly
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+Source\User\Main\ble.h(4): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+Source\User\Main\led.c(22): warning:  #1-D: last line of file ends without a newline
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling Readme.c...
+linking...
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ARRPreloadConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ClearFlag (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ClearITPendingBit (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_Cmd (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_DeInit (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_GetITStatus (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_ITConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_InternalClockConfig (referred from timer.o).
+.\OBJ\test.axf: Error: L6218E: Undefined symbol TIM_TimeBaseInit (referred from timer.o).
+Target not created
+Build target 'Target 1'
+compiling stm32f10x_tim.c...
+linking...
+Program Size: Code=9812 RO-data=336 RW-data=56 ZI-data=2168  
+FromELF: creating hex file...
+".\OBJ\test.axf" - 0 Error(s), 0 Warning(s).
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\main.c(43): warning:  #223-D: function "Init_Ble" declared implicitly
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+Source\User\Main\ble.h(4): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+Source\User\Main\led.c(22): warning:  #1-D: last line of file ends without a newline
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling Readme.c...
+linking...
+Program Size: Code=9812 RO-data=336 RW-data=56 ZI-data=2168  
+FromELF: creating hex file...
+".\OBJ\test.axf" - 0 Error(s), 54 Warning(s).
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\ble.h(4): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+Source\User\Main\ble.h(4): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling Readme.c...
+linking...
+Program Size: Code=9820 RO-data=336 RW-data=56 ZI-data=2168  
+FromELF: creating hex file...
+".\OBJ\test.axf" - 0 Error(s), 53 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\ble.h(7): error:  #20: identifier "uint8" is undefined
+Source\User\Main\ble.h(12): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling ble.c...
+Source\User\Main\ble.h(7): error:  #20: identifier "uint8" is undefined
+Source\User\Main\ble.h(12): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\ble.h(12): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling ble.c...
+Source\User\Main\ble.h(7): error:  #20: identifier "uint8_t" is undefined
+Source\User\Main\ble.h(12): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\ble.h(16): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling ble.c...
+Source\User\Main\ble.h(16): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+linking...
+Program Size: Code=9824 RO-data=336 RW-data=56 ZI-data=2168  
+FromELF: creating hex file...
+".\OBJ\test.axf" - 0 Error(s), 5 Warning(s).
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\ble.h(19): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+Source\User\Main\ble.h(19): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling Readme.c...
+linking...
+.\OBJ\test.axf: Error: L6218E: Undefined symbol Init_NVIC (referred from main.o).
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\ble.h(19): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+Source\User\Main\ble.h(19): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling Readme.c...
+linking...
+.\OBJ\test.axf: Error: L6218E: Undefined symbol Init_NVIC (referred from main.o).
+Target not created
+Rebuild target 'Target 1'
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\ble.h(19): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling usart.c...
+compiling stm32f10x_it.c...
+compiling RC522.C...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\RC522.C(48): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(83): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(119): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(149): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(177): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(201): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(211): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(239): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(248): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(261): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(285): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(296): warning:  #514-D: pointless comparison of unsigned integer with a negative constant
+Source\User\Main\RC522.C(301): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(311): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(323): warning:  #550-D: variable "status" was set but never used
+Source\User\Main\RC522.C(365): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(367): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(369): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(393): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(394): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(400): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(402): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(403): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(405): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(410): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(413): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(416): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(417): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(430): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(431): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(437): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(439): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(440): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(442): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(448): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(450): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(451): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(453): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(455): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(456): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(497): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(545): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(563): warning:  #68-D: integer conversion resulted in a change of sign
+Source\User\Main\RC522.C(612): warning:  #174-D: expression has no effect
+Source\User\Main\RC522.C(615): warning:  #174-D: expression has no effect
+compiling timer.c...
+compiling ble.c...
+Source\User\Main\ble.h(19): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling fans.c...
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+compiling led.c...
+compiling ultrasonic.c...
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+compiling user_sys_config.c...
+Source\User\Main\user_sys_config.c(14): error:  #20: identifier "NVIC_InitTypeDef" is undefined
+Source\User\Main\user_sys_config.c(21): warning:  #223-D: function "NVIC_SetVectorTable" declared implicitly
+Source\User\Main\user_sys_config.c(21): error:  #20: identifier "NVIC_VectTab_FLASH" is undefined
+Source\User\Main\user_sys_config.c(24): warning:  #223-D: function "NVIC_PriorityGroupConfig" declared implicitly
+Source\User\Main\user_sys_config.c(24): error:  #20: identifier "NVIC_PriorityGroup_2" is undefined
+Source\User\Main\user_sys_config.c(26): error:  #20: identifier "USART1_IRQn" is undefined
+Source\User\Main\user_sys_config.c(29): error:  #20: identifier "ENABLE" is undefined
+Source\User\Main\user_sys_config.c(30): warning:  #223-D: function "NVIC_Init" declared implicitly
+Source\User\Main\user_sys_config.c(33): error:  #20: identifier "NVIC_PriorityGroup_0" is undefined
+Source\User\Main\user_sys_config.c(35): error:  #20: identifier "TIM2_IRQn" is undefined
+Source\User\Main\user_sys_config.c(41): warning:  #1-D: last line of file ends without a newline
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling Readme.c...
+Target not created
+Build target 'Target 1'
+compiling main.c...
+Source\User\Main\rc522.h(32): warning:  #1295-D: Deprecated declaration Init_Rc522 - give arg types
+Source\User\Main\fans.h(7): warning:  #1295-D: Deprecated declaration Init_Fans - give arg types
+Source\User\Main\ultrasonic.h(9): warning:  #1295-D: Deprecated declaration Init_Ultrasonic - give arg types
+Source\User\Main\ble.h(19): warning:  #1295-D: Deprecated declaration Init_Ble - give arg types
+compiling user_sys_config.c...
+Source\User\Main\user_sys_config.c(41): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=9824 RO-data=336 RW-data=56 ZI-data=2168  
+FromELF: creating hex file...
+".\OBJ\test.axf" - 0 Error(s), 5 Warning(s).
